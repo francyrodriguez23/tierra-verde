@@ -1,0 +1,9 @@
+export { default as DetailNav } from "./DetailNav";
+export { default as HeroGallery } from "./HeroGallery";
+export { default as PropertySummary } from "./PropertySummary";
+export { default as TechnicalAttributes } from "./TechnicalAttributes";
+export { default as LegalVerification } from "./LegalVerification";
+export { default as Profitability } from "./Profitability";
+export { default as DocumentsSection } from "./DocumentsSection";
+export { default as Sidebar } from "./Sidebar";
+export { default as MobileBottomBar } from "./MobileBottomBar";

@@ -1,0 +1,9 @@
+export { default as Header } from "./Header";
+export { default as Hero } from "./Hero";
+export { default as PropertyCard } from "./PropertyCard";
+export { default as FeaturedProperties } from "./FeaturedProperties";
+export { default as CategoryCard } from "./CategoryCard";
+export { default as InvestmentCategories } from "./InvestmentCategories";
+export { default as HowItWorks } from "./HowItWorks";
+export { default as CTASection } from "./CTASection";
+export { default as Footer } from "./Footer";
