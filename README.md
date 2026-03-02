@@ -13,12 +13,6 @@
 
 <br/>
 
-<!-- 🖼️ CAPTURA DE PANTALLA — Reemplaza la ruta con una imagen real del proyecto -->
-<!-- ![Vista previa de Tierra Verde](./docs/preview.png) -->
-`📸 Agrega aquí una captura de pantalla del proyecto`
-
-<br/>
-
 </div>
 
 ---
